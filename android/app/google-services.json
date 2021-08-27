@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353399070915",
+    "firebase_url": "https://paseo-1571068460067.firebaseio.com",
+    "project_id": "paseo-1571068460067",
+    "storage_bucket": "paseo-1571068460067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353399070915:android:2f7dc1249c35011b714276",
+        "android_client_info": {
+          "package_name": "com.paseo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353399070915-hltre02elntgq2ddoeokknfnr268h6mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTGGoBZphjRG3KlyUV8WGF3zsGFimOjP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353399070915-hltre02elntgq2ddoeokknfnr268h6mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
